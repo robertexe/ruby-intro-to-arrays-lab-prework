@@ -1,3 +1,4 @@
 def instantiate_new_array
-  return array.new()
+  arr = [];
+  return arr
 end
